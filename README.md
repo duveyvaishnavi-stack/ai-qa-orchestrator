@@ -7,7 +7,7 @@
 ![Claude](https://img.shields.io/badge/Powered%20by-Claude%20AI-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Built by [Vaishnavi](https://linkedin.com/in/your-profile) · QA Engineer
+Built by [Vaishnavi](https://www.linkedin.com/in/vaishnve-duvey-53b9a8143/?skipRedirect=true) · QA Engineer
 
 ---
 
