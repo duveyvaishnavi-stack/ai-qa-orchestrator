@@ -7,7 +7,7 @@
 ![Claude](https://img.shields.io/badge/Powered%20by-Claude%20AI-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Built by [Vaishnavi](https://www.linkedin.com/in/vaishnve-duvey-53b9a8143/?skipRedirect=true) · QA Engineer
+Built by [Vaishnavi](https://www.linkedin.com/in/vaishnve-duvey-53b9a8143/?skipRedirect=true) · QA Manager
 
 ---
 
@@ -65,7 +65,7 @@ Get your API key at: https://console.anthropic.com
 
 **Vaishnavi** — QA Engineer passionate about AI-powered testing
 
-Connect on [LinkedIn](https://linkedin.com/in/your-profile)
+Connect on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vaishnve-duvey-53b9a8143/?skipRedirect=true)
 
 ---
 ⭐ Star this repo if it helped you!
