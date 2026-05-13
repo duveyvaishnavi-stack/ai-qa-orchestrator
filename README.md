@@ -63,7 +63,7 @@ Get your API key at: https://console.anthropic.com
 
 ## Author
 
-**Vaishnavi** — QA Engineer passionate about AI-powered testing
+**Vaishnavi** — QA Manager passionate about AI-powered testing
 
 Connect on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vaishnve-duvey-53b9a8143/?skipRedirect=true)
 
