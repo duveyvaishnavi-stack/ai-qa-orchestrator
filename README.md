@@ -1,5 +1,3 @@
-# ai-qa-orchestrator
-AI pipeline that reads user stories and generates Playwright test cases automatically
 # AI QA Orchestration Pipeline
 
 > Reads user stories → generates test cases → writes Playwright scripts → opens GitHub PRs. Automatically.
